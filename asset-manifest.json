@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CredTracker%20/static/css/main.9d816d67.css",
-    "main.js": "/CredTracker%20/static/js/main.681d702d.js",
+    "main.js": "/CredTracker%20/static/js/main.8a1408ea.js",
     "static/media/signup.svg": "/CredTracker%20/static/media/signup.5b3288c423ad1cbb36332519bab07c88.svg",
     "static/media/login.svg": "/CredTracker%20/static/media/login.acc4876061f2ac56f5e2f8cdfd5eb4af.svg",
     "static/media/Home2.svg": "/CredTracker%20/static/media/Home2.746cf4ad90c83f0dcd4cf7433931dc13.svg",
@@ -12,10 +12,10 @@
     "static/media/user.svg": "/CredTracker%20/static/media/user.dfe2de61fcbaa253624373b5e6c230f2.svg",
     "index.html": "/CredTracker%20/index.html",
     "main.9d816d67.css.map": "/CredTracker%20/static/css/main.9d816d67.css.map",
-    "main.681d702d.js.map": "/CredTracker%20/static/js/main.681d702d.js.map"
+    "main.8a1408ea.js.map": "/CredTracker%20/static/js/main.8a1408ea.js.map"
   },
   "entrypoints": [
     "static/css/main.9d816d67.css",
-    "static/js/main.681d702d.js"
+    "static/js/main.8a1408ea.js"
   ]
 }
