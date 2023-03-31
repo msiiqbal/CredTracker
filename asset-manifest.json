@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/CredTracker/static/css/main.9d816d67.css",
-    "main.js": "/CredTracker/static/js/main.0155bdff.js",
-    "static/media/signup.svg": "/CredTracker/static/media/signup.5b3288c423ad1cbb36332519bab07c88.svg",
-    "static/media/login.svg": "/CredTracker/static/media/login.acc4876061f2ac56f5e2f8cdfd5eb4af.svg",
-    "static/media/Home2.svg": "/CredTracker/static/media/Home2.746cf4ad90c83f0dcd4cf7433931dc13.svg",
-    "static/media/Home1.svg": "/CredTracker/static/media/Home1.99219049ca52381e0139955b3ff0a795.svg",
-    "static/media/Logo.svg": "/CredTracker/static/media/Logo.6c78411d7b6a2e1fe39a5c7553e04856.svg",
-    "static/media/institute.svg": "/CredTracker/static/media/institute.20f448ec8951ab89942dfdf57559f931.svg",
-    "static/media/company.svg": "/CredTracker/static/media/company.1216ec9ad68c2381af255833ebc045bc.svg",
-    "static/media/user.svg": "/CredTracker/static/media/user.dfe2de61fcbaa253624373b5e6c230f2.svg",
-    "index.html": "/CredTracker/index.html",
-    "main.9d816d67.css.map": "/CredTracker/static/css/main.9d816d67.css.map",
-    "main.0155bdff.js.map": "/CredTracker/static/js/main.0155bdff.js.map"
+    "main.css": "/CredTracker%20/static/css/main.9d816d67.css",
+    "main.js": "/CredTracker%20/static/js/main.681d702d.js",
+    "static/media/signup.svg": "/CredTracker%20/static/media/signup.5b3288c423ad1cbb36332519bab07c88.svg",
+    "static/media/login.svg": "/CredTracker%20/static/media/login.acc4876061f2ac56f5e2f8cdfd5eb4af.svg",
+    "static/media/Home2.svg": "/CredTracker%20/static/media/Home2.746cf4ad90c83f0dcd4cf7433931dc13.svg",
+    "static/media/Home1.svg": "/CredTracker%20/static/media/Home1.99219049ca52381e0139955b3ff0a795.svg",
+    "static/media/Logo.svg": "/CredTracker%20/static/media/Logo.6c78411d7b6a2e1fe39a5c7553e04856.svg",
+    "static/media/institute.svg": "/CredTracker%20/static/media/institute.20f448ec8951ab89942dfdf57559f931.svg",
+    "static/media/company.svg": "/CredTracker%20/static/media/company.1216ec9ad68c2381af255833ebc045bc.svg",
+    "static/media/user.svg": "/CredTracker%20/static/media/user.dfe2de61fcbaa253624373b5e6c230f2.svg",
+    "index.html": "/CredTracker%20/index.html",
+    "main.9d816d67.css.map": "/CredTracker%20/static/css/main.9d816d67.css.map",
+    "main.681d702d.js.map": "/CredTracker%20/static/js/main.681d702d.js.map"
   },
   "entrypoints": [
     "static/css/main.9d816d67.css",
-    "static/js/main.0155bdff.js"
+    "static/js/main.681d702d.js"
   ]
 }
